@@ -35,3 +35,4 @@ Feel free to customize and enhance the Profile Settings component according to y
 Check out the live demo of the Profile Settings component hosted on Vercel. Enjoy!
 https://profile-settings-gamma.vercel.app/
 
+![image](https://github.com/jose-guilherme93/profile-settings/assets/81981887/9f79fb74-984e-448d-a75b-b294b1af1a1f)
